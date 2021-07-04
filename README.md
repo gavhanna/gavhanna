@@ -17,10 +17,9 @@ I'm a largely selt-taught web developer with a _HDip in Science in Web Technolog
 
 - 🔭 I’m currently working on [QuickCityBikes](quickcitybikes.com), a PWA for checking city bike data for cities around the world.
 - 🌱 I’m currently learning datastructures and algorithms 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript, including any of Vue, React or Angular (I prefer the first two).
 - 📫 How to reach me: gavhanna@gmail.com | [LinkedIn](https://linkedin.com/in/gavhanna)
-- 💻 I have worked professionally with Python, Javascript, React, Angular, Node/Express, PHP/Laravel, Wordpress, Linux, CentOS, nginx, Apache, Cypress, GitLab etc.
-- 💬 Ask me about anything! I am happy to answer any question or chat about whatever.
+- 💻 I have worked professionally with Python, Javascript, Vue, React, Angular, Node/Express, PHP/Laravel, Wordpress, Linux, CentOS, nginx, Apache, Cypress, GitLab etc.
 - ⚡ Hire [me](mailto:gavhanna@gmail.com?Subject=Hello%20Gavin) 👨‍💻.
 
 ### Show some GitHub magic ❤️

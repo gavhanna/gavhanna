@@ -22,6 +22,5 @@ I'm a largely selt-taught web developer with a _HDip in Science in Web Technolog
 - 💻 I have worked professionally with Python, Javascript, Vue, React, Angular, Node/Express, PHP/Laravel, Wordpress, Linux, CentOS, nginx, Apache, Cypress, GitLab etc.
 - ⚡ Hire [me](mailto:gavhanna@gmail.com?Subject=Hello%20Gavin) 👨‍💻.
 
-### Show some GitHub magic ❤️
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gavhanna&show_icons=true&hide_border=true)
